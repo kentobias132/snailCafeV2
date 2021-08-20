@@ -38,7 +38,7 @@ $('.move').owlCarousel({
             items: 1,
             nav: false,
         },
-        350:{
+        400:{
             items: 2,
             nav: false,
         },
