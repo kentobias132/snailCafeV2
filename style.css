@@ -931,13 +931,13 @@ span,.stars{
 
 @media (max-width: 380px) {
     .category .container-fluid{
-        padding: 0 90px !important;
+        padding: 0 89px !important;
     }
 
     .gallery .row .box{
-        width: 155px;
-        height: 200px;
-        margin: 9px;
+        width: 150px;
+        height: 192px;
+        margin: 10px;
     }
 
     .foot .iner{
