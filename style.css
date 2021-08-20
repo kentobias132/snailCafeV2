@@ -929,15 +929,15 @@ span,.stars{
     }
 }
 
-@media (max-width: 370px) {
+@media (max-width: 380px) {
     .category .container-fluid{
-        padding: 0 67px !important;
+        padding: 0 88px !important;
     }
 
     .gallery .row .box{
-        width: 138px;
+        width: 150px;
         height: 178px;
-        margin: 5px;
+        margin: 10px;
     }
 
     .foot .iner{
